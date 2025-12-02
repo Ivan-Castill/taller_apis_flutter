@@ -3,6 +3,10 @@
 
 Aplicación Flutter que consume múltiples APIs públicas para mostrar Pokémons, perros y emojis. Permite buscar, listar y ver detalles de cada elemento usando interfaces con pestañas (Tabs).
 
+# ⏯️ Video
+
+
+
 # 📱 Características
 
 ✔️ Búsqueda de Pokémon por nombre usando PokeAPI
