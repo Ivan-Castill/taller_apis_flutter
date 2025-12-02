@@ -7,6 +7,10 @@ Aplicación Flutter que consume múltiples APIs públicas para mostrar Pokémons
 
 
 
+https://github.com/user-attachments/assets/442488fe-d341-47d2-86e2-16ab58b9d797
+
+
+
 # 📱 Características
 
 ✔️ Búsqueda de Pokémon por nombre usando PokeAPI
