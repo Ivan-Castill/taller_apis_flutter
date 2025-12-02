@@ -3,6 +3,9 @@
 
 Aplicación Flutter que consume múltiples APIs públicas para mostrar Pokémons, perros y emojis. Permite buscar, listar y ver detalles de cada elemento usando interfaces con pestañas (Tabs).
 
+>[!NOTE]
+>  Link de la apk: https://drive.google.com/drive/folders/16ES27KJ9gU7zQ81zZpkA0aMiOxkyTLlL?usp=sharing 
+
 # ⏯️ Video
 
 
